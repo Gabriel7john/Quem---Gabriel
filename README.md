@@ -1,22 +1,32 @@
-# Portfólio — Gabriel Santana
+# 👋 Quem é Gabriel?
 
-Portfólio pessoal de Gabriel Santana, desenvolvedor full stack. Página única (HTML/CSS/JS vanilla, sem frameworks) com uma sequência de abertura que simula uma conexão sendo estabelecida antes de revelar o conteúdo.
+Olá! Eu sou Gabriel Santana, desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistemas.
 
-## ✨ Destaques
+💻 Gosto de transformar ideias em projetos, resolver problemas com tecnologia e aprender novas ferramentas na prática.
 
-- Reveal de abertura: a página inicia em preto e o conteúdo aparece após uma simulação de "conexão"
-- Layout 100% responsivo, sem dependências externas além de fontes do Google Fonts
-- Seções: sobre, habilidades, projetos, experiência profissional e contato
+### 🚀 Tecnologias
 
-## 🛠️ Tecnologias
+- JavaScript
+- TypeScript
+- Python
+- React
+- Node.js
+- SQL
+- AWS
+- Git & GitHub
 
-- HTML5
-- CSS3 (variáveis CSS, grid, flexbox)
-- JavaScript puro
+### 📊 Também tenho experiência com
 
+- Desenvolvimento Back-end e Front-end
+- Análise de dados
+- APIs e automações
+- Bancos de dados
+- Projetos utilizando IA
 
+### 🎯 Meu objetivo
 
-## 📬 Contato
+Continuar evoluindo como desenvolvedor, construir projetos cada vez melhores e transformar conhecimento em soluções reais.
 
-- LinkedIn: [gabriel-santana-souza-pereira](https://linkedin.com/in/gabriel-santana-souza-pereira-ba1786306)
-- GitHub: [@Gabriel7john](https://github.com/Gabriel7john)
+> "Aprender, construir e evoluir todos os dias."
+
+📫 **Vamos nos conectar!**
