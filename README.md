@@ -14,23 +14,7 @@ Portfólio pessoal de Gabriel Santana, desenvolvedor full stack. Página única 
 - CSS3 (variáveis CSS, grid, flexbox)
 - JavaScript puro
 
-## 📁 Estrutura
 
-```
-.
-├── portfolio.html   # estrutura e conteúdo da página
-├── style.css        # estilos e animação de reveal
-└── README.md
-```
-
-## 🚀 Como rodar localmente
-
-```bash
-git clone https://github.com/Gabriel7john/<nome-do-repo>.git
-cd <nome-do-repo>
-```
-
-Depois é só abrir o `portfolio.html` no navegador — não precisa de build nem servidor.
 
 ## 📬 Contato
 
